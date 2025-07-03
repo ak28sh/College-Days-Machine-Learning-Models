@@ -5,3 +5,7 @@ Used Car Price Prediction - https://drive.google.com/drive/folders/1JA1eRCazItjr
 
 
 Face Matching Model - https://drive.google.com/drive/folders/1Y-Glcs3zhaEncsQSL9PeEtNOsUn-Jymk?usp=sharing
+
+
+Image Classification - https://drive.google.com/drive/folders/1lENwZBqSsI8et9yDUP5Q-cCDRw0irxt2?usp=sharing
+
