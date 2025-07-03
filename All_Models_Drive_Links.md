@@ -16,6 +16,11 @@ Telecom Customer Churn Prediction(xgboost) - https://drive.google.com/drive/fold
 
 
 
+Agorithm Learnings - https://drive.google.com/drive/folders/1THx7wDht_dvu7s5HAetWy7qHMxDWi66Q?usp=sharing
+
+
+
+
 
 
 
