@@ -1,2 +1,4 @@
-* linguist-detectable=true
 *.py linguist-language=Python
+*.md linguist-documentation
+*.txt linguist-documentation
+*.sh linguist-documentation
